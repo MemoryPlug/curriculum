@@ -9,7 +9,7 @@ If you've completed the Ruby on Rails course already, you can safely skip to the
 
 ### This is a Work In Progress!
 
-This course is currently under construction, which means that the explanations may not be as rich as you're used to from the other courses and some stuff may still be marked "TO-DO".  That said, we teach mostly by showing you the best places to learn a given subject on the internet anyway, and luckily there are tons of great resources out there for learning HTML and CSS.  If you find anything out there which should be included, let us know!
+This course is currently under construction, which means that the explanations may not be as rich as you're used to from the other courses and some stuff may still be marked "TO-DO".  That said, we teach mostly by showing you the best places to learn a given subject on the internet anyway, and luckily there are tons of great resources out there for learning HTML and CSS.  If you find anything out there that should be included, let us know!
 
 ### Format
 
